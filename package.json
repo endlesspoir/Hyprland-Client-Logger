@@ -1,0 +1,10 @@
+{
+  "name": "mytimecontrol",
+  "version": "1.0.0",
+  "main": "logger.js",
+  "scripts": {
+    "start": "node logger.js"
+  },
+  "author": "Endlesspoir",
+  "license": "MIT"
+}
