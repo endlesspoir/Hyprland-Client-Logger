@@ -50,4 +50,4 @@ v1.0
 
 ---
 
-*Note: This script is specifically designed for Hyprland Wayland compositor users.*
+*Note: This script is specifically designed for Hyprland Wayland compositor users.*soon
