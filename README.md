@@ -46,7 +46,7 @@ Each log file contains an array of objects with:
 
 ## Version
 
-v1.0 
+test virsion
 
 ---
 
