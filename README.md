@@ -46,7 +46,7 @@ Each log file contains an array of objects with:
 
 ## Version
 
-test virsion
+test virsion(test in arch 0.47.0) 
 
 ---
 
